@@ -1,3 +1,5 @@
+OBS: This character was released in 2010, I'm posting it here just for archiving purposes.
+
 Ridley - Beta Version 0.5 WIP
 Author: Endoedgarjunior
 
