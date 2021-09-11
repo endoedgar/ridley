@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name = "Ridley by Endoedgarjunior"
+displayname = "Ridley"
+versiondate = 30/05/09
+mugenversion = 06,14,2003
+author = "Endoedgarjunior"
+pal.defaults = 1,2,3,4
+
+[Files]
+sprite = ridley.sff
+anim = ridley.air
+sound = ridley.snd
+cmd = ridley.cmd
+cns = ridley.cns
+stcommon = ridleycomum.cns
+st = ridley.cns
+pal1 = ridley.act
+pal2 = blueridley.act
+pal3 = greenridley.act
+pal4 = yellowridley.act
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 
